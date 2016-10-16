@@ -1,0 +1,1 @@
+1) Beautiful_Soup_AmazonParser.py - The script parses a page of reviews from Amazon.com and stores the review information in a text file.
