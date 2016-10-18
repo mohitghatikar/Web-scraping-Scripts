@@ -14,4 +14,4 @@ Write a script that reads a text a file, splits it into sentences, and print the
 
 There are many python libraries that do sentence-splitting for you. Don't use such libraries.
 
-You can use the 'input.txt' file from week6.zip as sample input.
+You can use the 'input.txt' file from as sample input.
